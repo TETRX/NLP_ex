@@ -1,0 +1,4 @@
+corpus/*
+*.zip
+*.gz
+odm.txt
